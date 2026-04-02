@@ -1,1 +1,1 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/Dobromilov?theme=nord&font=Copse&ext=contest)
+![](https://leetcard.jacoblin.cool/Dobromilov?theme=nord&font=Copse&ext=contest)
