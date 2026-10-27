@@ -5,8 +5,10 @@ Exploring the intersection of high-performance **C++**, **Digital Signal Process
 Previously wrote code in **Go, Python, C, and Kotlin** — now settled on **C++** to work closer to hardware and network protocols.
 
 **Current 1-Year Roadmap:**
+* **Deepening C++ Expertise:** Advancing from fundamentals to modern C++ (C++17/20), memory management, multithreading, and low-level performance optimization.
 * **ns-3 & 5G/LTE:** Implementing and researching **HARQ** mechanisms and cellular protocol stacks.
 * **SDR & DSP:** Processing real-time radio signals with Software-Defined Radio.
+
 
 **Tech Stack:**
 
