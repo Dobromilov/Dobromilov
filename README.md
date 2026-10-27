@@ -1,54 +1,23 @@
-<p align="center">
-  <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/5a484eab-ce3c-47ef-861c-5c5a0b62f858" />
-</p>
+## Artem | C++ & Telecom Developer
 
-<p align="center">
-  <a href="https://github.com/Dobromilov">
-    <img src="https://komarev.com/ghpvc/?username=Dobromilov&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <img src="https://img.shields.io/badge/Go-Backend-00ADD8?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Environment-FCC624?style=flat&logo=linux&logoColor=black" />
-</p>
+Exploring the intersection of high-performance **C++**, **Digital Signal Processing (DSP)**, and **LTE/5G** wireless networks. 
 
----
+Previously wrote code in **Go, Python, C, and Kotlin** — now settled on **C++** to work closer to hardware and network protocols.
 
-## 👨‍💻 About me
+**Current 1-Year Roadmap:**
+* **ns-3 & 5G/LTE:** Implementing and researching **HARQ** mechanisms and cellular protocol stacks.
+* **SDR & DSP:** Processing real-time radio signals with Software-Defined Radio.
 
-I'm a **Go Backend Developer** focused on building reliable backend services, REST APIs and tools for working with data.
+**Tech Stack:**
 
-I like projects where backend code is not just a set of handlers, but a complete service with clear architecture, database schema, migrations, Docker environment and understandable API.
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-- 🔭 Currently working on backend projects with **Go, PostgreSQL and Docker**
-- 🌱 Improving my skills in **clean architecture, SQL, REST API design and distributed systems**
-- 🧠 Practicing algorithms and data structures on LeetCode
-- ⚙️ Interested in backend infrastructure, logs, monitoring and system tools
-
----
-
-## 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,postgres,docker,linux,git,github,bash,cpp,python,kotlin" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dobromilov&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-## 🧩 Algorithms
-
-I practice algorithms and data structures to improve problem decomposition, complexity analysis and clean implementation.
-
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Dobromilov_)](https://leetcode.com/Dobromilov_)
-
+**Contact:** [dobromilovprojects@gmail.com](mailto:dobromilovartem@gmail.com)
